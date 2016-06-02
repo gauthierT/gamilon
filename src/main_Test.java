@@ -3,10 +3,10 @@
  */
 
 /**
- * @author Gauthier TUFFOU
+ * @author NeoX_^
  * @date 02/06/2016
  */
-public class mainTest {
+public class main_Test {
 
 	/**
 	 * @param args
